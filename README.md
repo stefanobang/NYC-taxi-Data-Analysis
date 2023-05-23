@@ -1,7 +1,7 @@
 # NYC-taxi-Data-Analysis
 <h1 align="center">뉴욕시 택시 5500만 회의 운행 기록을 분석 및 시각화</h1>
 <div align="center">
-    <img align="center"  src="https://github.com/stefanobang/stefanobang123/blob/master/otherImg/NYCImage.png" width="250px" alt="welcome-image">
+    <img align="center"  src="https://github.com/stefanobang/stefanobang123/blob/master/otherImg/NYCImage.png" width="900px" alt="welcome-image">
 </div>
 
 - 주피터 노트북(Jupyter notebook)을 이용하여 뉴욕시 택시 5500만 회의 운행 기록을 분석 및 시각화 프로젝트를 수행 
